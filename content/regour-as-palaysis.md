@@ -16,7 +16,7 @@ There is nothing obviously defective about such questions. In many contexts, the
 
 Yet a habit that begins as a safeguard can gradually become a default relation to the world. What started as a philosophical method does not always remain within contemplation. It can migrate into ordinary life. It can begin to govern not only claims and propositions, but feelings, desires, decisions, relationships, and even the small gestures by which one participates in existence.
 
-At that point, the question “could this be wrong?” no longer applies only to statements about the world. It begins to attach itself to nearly everything.
+At that point, the question "could this be wrong?" no longer applies only to statements about the world. It begins to attach itself to nearly everything.
 
 Do I really want this, or do I merely think I want it?
 Is this feeling genuine, or is it contaminated by some hidden force?
