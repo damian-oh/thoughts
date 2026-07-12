@@ -1,5 +1,8 @@
 ---
 title: Rigour as Paralysis
+tags:
+  - uncertainty
+  - provisionality
 ---
 
 By rigour, I do not mean intelligence, nor do I mean the mere preference for complexity. I mean something narrower: the consistent refusal to make judgments without sufficient evidence, in the hope of avoiding error.
@@ -57,3 +60,7 @@ The difficulty is that I do not know where the boundary lies. I do not know when
 Perhaps both are true at different times. Perhaps the same gesture can be an act of intellectual honesty in one context and a form of evasion in another. To withhold judgment may be necessary when evidence is insufficient. But to withhold oneself from life until life becomes sufficiently justified may be another matter entirely.
 
 For now, I can only describe the phenomenon: a mind trained to avoid error, perhaps gradually learning to hesitate before life itself.
+
+---
+
+Related: [[Control and the Uncontrollable]], [[Firmness Without Finality]], [[Uncertainty and Participation]]

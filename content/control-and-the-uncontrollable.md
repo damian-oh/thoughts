@@ -7,3 +7,7 @@ It seems not too uncommon to divide the world into what we can control and what 
 Since life carries no universally proven purpose and ends in unavoidable death, doing absolutely nothing remains a valid option. There is no definitive law demanding action or order.
 
 Some choose to move forward anyway, perhaps due to an instinct to minimize unnecessary friction and pain. As for me, I am still unsure whether this is agnosticism or paralysis.
+
+---
+
+Related: [[Rigour as Paralysis]], [[Uncertainty and Participation]]
