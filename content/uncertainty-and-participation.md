@@ -1,8 +1,5 @@
 ---
 title: Uncertainty and Participation
-tags:
-  - uncertainty
-  - provisionality
 ---
 A sequence of notes on uncertainty, rigour, paralysis, and provisional participation.
 
