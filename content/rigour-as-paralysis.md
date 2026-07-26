@@ -63,4 +63,4 @@ For now, I can only describe the phenomenon: a mind trained to avoid error, perh
 
 ---
 
-Related: [[Control and the Uncontrollable]], [[Firmness Without Finality]], [[Uncertainty and Participation]]
+Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Firmness Without Finality]], [[Ground and Gravity]]

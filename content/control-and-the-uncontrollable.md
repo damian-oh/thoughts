@@ -13,4 +13,4 @@ Some choose to move forward anyway, perhaps due to an instinct to minimize unnec
 
 ---
 
-Related: [[Rigour as Paralysis]], [[Uncertainty and Participation]]
+Related: [[Uncertainty and Participation]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Ground and Gravity]]
