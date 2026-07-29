@@ -1,5 +1,7 @@
 ---
 title: Uncertainty and Participation
+aliases:
+  - /uncertainty-and-participation
 ---
 
 A sequence of notes on uncertainty, rigour, paralysis, and provisional participation.

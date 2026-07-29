@@ -3,6 +3,8 @@ title: Weight and Assent
 tags:
   - uncertainty
   - provisionality
+aliases:
+  - /weight-and-assent
 ---
 
 In school, I played center-back. Behind you there is one man, and then the net. Most people treat the last line as a burden, a place where every mistake is fatal. I loved it for the opposite reason.

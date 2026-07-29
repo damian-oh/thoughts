@@ -3,6 +3,8 @@ title: Ground and Gravity
 tags:
   - uncertainty
   - provisionality
+aliases:
+  - /ground-and-gravity
 ---
 
 I often tell people that the only things I truly know are secondary dominants and how to reverse a Python list.

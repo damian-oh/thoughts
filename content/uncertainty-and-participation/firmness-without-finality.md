@@ -3,6 +3,8 @@ title: Firmness Without Finality
 tags:
   - uncertainty
   - provisionality
+aliases:
+  - /firmness-without-finality
 ---
 
 Perhaps firm belief in a provisional structure is not incoherent.

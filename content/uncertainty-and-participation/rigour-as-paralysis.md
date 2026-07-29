@@ -3,6 +3,8 @@ title: Rigour as Paralysis
 tags:
   - uncertainty
   - provisionality
+aliases:
+  - /rigour-as-paralysis
 ---
 
 By rigour, I do not mean intelligence, nor do I mean the mere preference for complexity. I mean something narrower: the consistent refusal to make judgments without sufficient evidence, in the hope of avoiding error.
