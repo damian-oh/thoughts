@@ -3,6 +3,7 @@ title: Rigour as Paralysis
 tags:
   - uncertainty
   - provisionality
+  - hesitation
 aliases:
   - /rigour-as-paralysis
 ---

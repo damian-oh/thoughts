@@ -3,6 +3,7 @@ title: Ground and Gravity
 tags:
   - uncertainty
   - provisionality
+  - mastery
 aliases:
   - /ground-and-gravity
 ---

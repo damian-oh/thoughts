@@ -3,6 +3,7 @@ title: Firmness Without Finality
 tags:
   - uncertainty
   - provisionality
+  - inhabitation
 aliases:
   - /firmness-without-finality
 ---

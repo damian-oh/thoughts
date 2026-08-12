@@ -3,6 +3,7 @@ title: Weight and Assent
 tags:
   - uncertainty
   - provisionality
+  - assent
 aliases:
   - /weight-and-assent
 ---
