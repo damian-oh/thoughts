@@ -8,6 +8,10 @@ I am trying to log what happens.
 
 Everything here is just data collected along the way, to be looked at or perhaps rearranged over time.
 
+---
+
+## Collections
+
 [[uncertainty-and-participation/index|Uncertainty and Participation]]
 
 [[music/index|Music]]
