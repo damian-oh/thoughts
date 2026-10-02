@@ -4,7 +4,7 @@ tags:
   - authorship
   - provenance
 aliases:
-  - keeping-it-human
+  - /keeping-it-human
 ---
 
 Bandcamp has published a policy called "[Keeping Bandcamp Human](https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/)," and I want to argue with its title.
