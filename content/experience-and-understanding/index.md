@@ -6,4 +6,4 @@ aliases:
 
 A sequence of notes on experience and understanding.
 
-- [[what-is-not-made-explicit|What Is Not Made Explicit]]: a personal account of remembering and understanding through explicit information.
+1. [[what-is-not-made-explicit|What Is Not Made Explicit]]: a personal account of remembering and understanding through explicit information.
