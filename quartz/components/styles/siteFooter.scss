@@ -1,0 +1,21 @@
+.site-footer {
+  margin-bottom: 4rem;
+  color: var(--darkgray);
+  text-align: left;
+
+  & p {
+    margin: 0;
+  }
+
+  & .site-footer-main {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 0.25rem;
+  }
+
+  & .site-footer-credit {
+    margin-top: 0.25rem;
+    font-size: 0.85em;
+  }
+}
