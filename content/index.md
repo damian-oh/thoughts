@@ -12,8 +12,8 @@ Everything here is just data collected along the way, to be looked at or perhaps
 
 ## Collections
 
-[[uncertainty-and-participation/index|Uncertainty and Participation]]
+[[experience-and-understanding/index|Experience and Understanding]]
 
 [[music/index|Music]]
 
-[[experience-and-understanding/index|Experience and Understanding]]
+[[uncertainty-and-participation/index|Uncertainty and Participation]]
