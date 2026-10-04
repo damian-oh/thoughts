@@ -36,4 +36,4 @@ Strict mechanics and irreducible ambiguity are not mutually exclusive. The first
 
 ---
 
-Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Weight and Assent]]
+Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Weight and Assent]], [[What I Hope to Be Able to Say]]

@@ -11,3 +11,4 @@ A sequence of notes on uncertainty, rigour, provisional structures, and physical
 3. [[Firmness Without Finality]]: a possible response: inhabiting a provisional structure firmly.
 4. [[Ground and Gravity]]: separating what can be known exactly from what can only be played as though settled.
 5. [[Weight and Assent]]: the limit case, where assent is complete because nothing is left to interpret.
+6. [[What I Hope to Be Able to Say]]: a reflection on revisability, retrospective assent, and the hope of one day accepting a life as a whole.

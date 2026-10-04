@@ -26,4 +26,4 @@ I go back under the bar anyway. Firmly, and on the understanding that the platfo
 
 ---
 
-Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Ground and Gravity]]
+Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Ground and Gravity]], [[What I Hope to Be Able to Say]]

@@ -26,4 +26,4 @@ For now, I will inhabit a provisional structure firmly.
 
 ---
 
-Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Ground and Gravity]], [[Weight and Assent]]
+Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Ground and Gravity]], [[Weight and Assent]], [[What I Hope to Be Able to Say]]
