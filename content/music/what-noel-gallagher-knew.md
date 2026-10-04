@@ -39,7 +39,7 @@ Instead, when I listen to early Oasis, I hear an almost unreasonable movement in
 
 *We'll find a way of chasing the sun.*
 
-- Oasis, "Rock 'n' Roll Star," "Live Forever," and "Slide Away"; written by Noel Gallagher.
+— Oasis, "Rock 'n' Roll Star," "Live Forever," and "Slide Away"; written by Noel Gallagher.
 
 There is something almost ridiculous about it. Perhaps that is part of why it works.
 
