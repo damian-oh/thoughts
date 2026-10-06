@@ -16,6 +16,7 @@ import { styleText } from "util"
 import { resolveFrame } from "./frames"
 import type { TreeTransform } from "../plugins/types"
 import type { BuildCtx } from "../util/ctx"
+import { normalizeCanonicalLinks } from "../util/canonical"
 
 interface RenderComponents {
   head: QuartzComponent
@@ -303,6 +304,7 @@ export function renderPage(
   componentData: QuartzComponentProps,
   components: RenderComponents,
   pageResources: StaticResources,
+  canonicalLinkTargets: ReadonlyMap<string, FullSlug>,
   treeTransforms?: TreeTransform[],
 ): string {
   // make a deep copy of the tree so we don't remove the transclusion references
@@ -317,6 +319,8 @@ export function renderPage(
       transform(root, slug, componentData)
     }
   }
+
+  normalizeCanonicalLinks(root, slug, canonicalLinkTargets)
 
   // set componentData.tree to the edited html that has transclusions rendered
   componentData.tree = root

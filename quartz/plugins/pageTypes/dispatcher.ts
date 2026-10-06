@@ -10,6 +10,7 @@ import { StaticResources } from "../../util/resources"
 import { render } from "preact-render-to-string"
 import { fromHtml } from "hast-util-from-html"
 import { Root as HtmlRoot } from "hast"
+import { buildCanonicalLinkTargets } from "../../util/canonical"
 
 function getPageTypes(ctx: BuildCtx): QuartzPageTypePluginInstance[] {
   return (ctx.cfg.plugins.pageTypes ?? []) as unknown as QuartzPageTypePluginInstance[]
@@ -74,6 +75,7 @@ async function emitPage(
   allFiles: ProcessedContent[1]["data"][],
   layout: FullPageLayout,
   resources: StaticResources,
+  canonicalLinkTargets: ReadonlyMap<string, FullSlug>,
   treeTransforms?: TreeTransform[],
 ) {
   const cfg = ctx.cfg.configuration
@@ -101,7 +103,15 @@ async function emitPage(
 
   return write({
     ctx,
-    content: renderPage(cfg, slug, componentData, layout, externalResources, treeTransforms),
+    content: renderPage(
+      cfg,
+      slug,
+      componentData,
+      layout,
+      externalResources,
+      canonicalLinkTargets,
+      treeTransforms,
+    ),
     slug,
     ext: ".html",
   })
@@ -207,6 +217,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
 
       // Render Body components to populate htmlAst for transclusion
       populateVirtualPageHtmlAst(virtualEntries, ctx, allFilesWithVirtual, resources)
+      const canonicalLinkTargets = buildCanonicalLinkTargets(allFilesWithVirtual)
 
       // Phase 2: Emit regular pages (with virtual page data available for transclusion)
       for (const [tree, file] of content) {
@@ -223,6 +234,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
               allFilesWithVirtual,
               layout,
               resources,
+              canonicalLinkTargets,
               treeTransforms,
             )
             break
@@ -240,6 +252,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
           allFilesWithVirtual,
           ve.layout,
           resources,
+          canonicalLinkTargets,
           treeTransforms,
         )
       }
@@ -296,6 +309,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
 
       // Render Body components to populate htmlAst for transclusion
       populateVirtualPageHtmlAst(virtualEntries, ctx, allFilesWithVirtual, resources)
+      const canonicalLinkTargets = buildCanonicalLinkTargets(allFilesWithVirtual)
 
       // Phase 2: Emit changed regular pages
       for (const [tree, file] of content) {
@@ -314,6 +328,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
               allFilesWithVirtual,
               layout,
               resources,
+              canonicalLinkTargets,
               treeTransforms,
             )
             break
@@ -331,6 +346,7 @@ export const PageTypeDispatcher: QuartzEmitterPlugin<Partial<DispatcherOptions>>
           allFilesWithVirtual,
           ve.layout,
           resources,
+          canonicalLinkTargets,
           treeTransforms,
         )
       }

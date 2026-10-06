@@ -25,12 +25,10 @@ export function removeAllChildren(node: HTMLElement) {
   }
 }
 
-// AliasRedirect emits HTML redirects which also have the link[rel="canonical"]
-// containing the URL it's redirecting to.
-// Extracting it here with regex is _probably_ faster than parsing the entire HTML
-// with a DOMParser effectively twice (here and later in the SPA code), even if
-// way less robust - we only care about our own generated redirects after all.
-const canonicalRegex = /<link rel="canonical" href="([^"]*)">/
+// Only redirect stubs use canonical tags as navigation instructions. Ordinary
+// pages also have canonical metadata and must not trigger a second fetch.
+const canonicalRegex = /<link rel="canonical" href="([^"]*)"\s*\/?>/i
+const refreshRegex = /<meta\b(?=[^>]*\bhttp-equiv="refresh")[^>]*>/i
 
 export async function fetchCanonical(url: URL): Promise<Response> {
   const res = await fetch(`${url}`)
@@ -41,6 +39,7 @@ export async function fetchCanonical(url: URL): Promise<Response> {
   // reading the body can only be done once, so we need to clone the response
   // to allow the caller to read it if it's was not a redirect
   const text = await res.clone().text()
-  const [_, redirect] = text.match(canonicalRegex) ?? []
-  return redirect ? fetch(`${new URL(redirect, url)}`) : res
+  const redirect = refreshRegex.test(text) ? text.match(canonicalRegex)?.[1] : undefined
+  const destination = redirect ? new URL(redirect, url) : undefined
+  return destination && destination.href !== url.href ? fetch(`${destination}`) : res
 }
