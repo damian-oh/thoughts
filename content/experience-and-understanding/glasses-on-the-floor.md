@@ -25,4 +25,4 @@ Even then, my method was to test a claim by trying to break it. I did not look f
 
 I still do not have a rule that separates the glasses from the canyon. I may keep looking for one. But I have begun to recognize how easily the search for a definitive answer can become [[Rigour as Paralysis|something that consumes me]].
 
-Whether or not I found an answer, the bus was stilling carrying me back to Seoul.
+Whether or not I found an answer, the bus was still carrying me back to Seoul.
