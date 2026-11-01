@@ -78,7 +78,7 @@ There is something strange about becoming dogmatic about not being dogmatic.
 
 I do not yet know exactly where the boundary should be. Abstract and philosophical questions seem to pull me more strongly towards suspension. Ordinary practical questions often force me towards provisional acceptance.
 
-But even this distinction is unstable. Suspending judgement is itself a position. Saying, "I am not certain, so I will not decide," is no more neutral than saying, "I am not certain, but I will proceed."
+But even this distinction is unstable. Suspending judgment is itself a position. Saying, "I am not certain, so I will not decide," is no more neutral than saying, "I am not certain, but I will proceed."
 
 Both have consequences.
 

@@ -23,6 +23,6 @@ At the time, I thought I was trying to resolve or explore a question about aesth
 
 Even then, my method was to test a claim by trying to break it. I did not look for a positive definition of art. Instead, I looked for a case that might challenge the proposed boundary. I might have wanted a clean, explicit line that would clarify the point where one thing ended and the other began.
 
-I still do not have a rule that separates the glasses from the canyon. I may keep looking for one. But I have begun to recognise how easily the search for a definitive answer can become [[Rigour as Paralysis|something that consumes me]].
+I still do not have a rule that separates the glasses from the canyon. I may keep looking for one. But I have begun to recognize how easily the search for a definitive answer can become [[Rigour as Paralysis|something that consumes me]].
 
 Whether or not I found an answer, the bus was stilling carrying me back to Seoul.

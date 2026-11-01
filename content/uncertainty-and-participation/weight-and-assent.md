@@ -8,7 +8,7 @@ aliases:
   - /weight-and-assent
 ---
 
-In school, I played center-back. Behind you there is one man, and then the net. Most people treat the last line as a burden, a place where every mistake is fatal. I loved it for the opposite reason.
+In school, I played centre-back. Behind you there is one man, and then the net. Most people treat the last line as a burden, a place where every mistake is fatal. I loved it for the opposite reason.
 
 I was a defender who relied on overwhelming speed and physical dominance, with an exclusive right and responsibility to control the team's offside line. I often told my fellow defenders, "Push up past me," and then raised the line higher, waiting for the attackers to step into my territory. A single man behind me would have played the whole attack onside. I would rather trust my own recovery than let anyone stand there.
 

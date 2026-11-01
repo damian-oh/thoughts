@@ -22,9 +22,9 @@ He asked whether I felt any difference between speaking Korean and speaking Engl
 
 I said that I did.
 
-In fact, I have noticed that I tend to be a little kinder when speaking English and a little more cynical when speaking Korean. These are not dramatic differences, and they are mostly noticeable in everyday interactions. Still, I can recognise a difference in how I express myself.
+In fact, I have noticed that I tend to be a little kinder when speaking English and a little more cynical when speaking Korean. These are not dramatic differences, and they are mostly noticeable in everyday interactions. Still, I can recognize a difference in how I express myself.
 
-He suggested that this difference might point to something language cannot fully capture. If I can recognise that speaking one language feels different from speaking another, perhaps there is something in my experience that neither language can entirely account for.
+He suggested that this difference might point to something language cannot fully capture. If I can recognize that speaking one language feels different from speaking another, perhaps there is something in my experience that neither language can entirely account for.
 
 I thought it was an interesting approach. At the same time, I was not sure whether it answered my original question.
 

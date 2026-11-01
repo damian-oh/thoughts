@@ -119,7 +119,7 @@ But it also taught me where technical knowledge ends. When I was thirteen, Noel 
 
 I had learned enough to recognize how little of what matters is guaranteed by knowing the mechanics.
 
-I could analyse the chords.
+I could analyze the chords.
 
 I could hear the arrangement.
 
