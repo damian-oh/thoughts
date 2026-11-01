@@ -4,7 +4,7 @@ aliases:
   - /uncertainty-and-participation
 ---
 
-A sequence of notes on uncertainty, rigour, provisional structures, and physical assent.
+A sequence of notes on uncertainty and participation.
 
 1. [[Control and the Uncontrollable]]: The initial sense that action may not be demanded by anything.
 2. [[Rigour as Paralysis]]: An attempt to describe how the avoidance of error can become action without assent.
