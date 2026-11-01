@@ -63,7 +63,7 @@ None of them taught me how to write *Live Forever*.
 
 Formal musical knowledge is real knowledge. I do not think it should be diminished simply because someone can make excellent music without possessing all of it. If I am asked what a secondary dominant is, there are more and less correct answers. If I am arranging for instruments with different ranges, knowing those ranges matters. If I am recording something badly, ignorance of acoustics will not become artistic authenticity merely because I refuse to learn the relevant mechanics.
 
-But mechanics do not expand indefinitely into the whole.
+But [[Ground and Gravity|mechanics do not expand indefinitely into the whole]].
 
 I once made a conscious effort to prioritize technical understanding over artistic approach, as I knew that I lacked musical talent. I thought that if I knew enough harmony, enough arrangement, enough recording, enough history, perhaps what made a song work would become increasingly available to explanation.
 

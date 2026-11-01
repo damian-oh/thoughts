@@ -72,11 +72,9 @@ I would want love again.
 
 There is another one, which I would not have expected myself to say a few years ago.
 
-I would want music again.
+I would want [[I Thought I Was Done With Music|music again]].
 
-That last one still feels strange.
-
-There was a period when I genuinely wanted nothing to do with music. Now I play guitar again. I listen again. If I imagine another life without music in it, I am not sure I would choose that version.
+That last one still feels strange. However, if I imagine another life without music in it, I am not sure I would choose that version.
 
 There are too many parts of my life I cannot yet evaluate, too many things still happening, and too many possibilities I do not know how to place.
 
@@ -87,5 +85,7 @@ I do not know what I will believe at the end of my life. I hope I will have chan
 I also hope that after all those revisions, all the things I could not control, and all the choices I made without sufficient grounds, I will be able to look back and say something simple.
 
 I would gladly live it again.
+
+---
 
 Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Ground and Gravity]], [[Weight and Assent]]
