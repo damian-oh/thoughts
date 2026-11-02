@@ -9,11 +9,11 @@ aliases:
 
 If I had to name my two favourite bands, I would almost always choose Oasis and Nell.
 
-I have already written about Noel Gallagher, and how studying music made me increasingly uncertain about what it meant to know how to write a good song.
+I have already written about [[What Noel Gallagher Knew|Noel Gallagher]], and how studying music made me increasingly uncertain about what it meant to know how to write a good song.
 
 My reasons for admiring Nell are somewhat different.
 
-For a long time, *Healing Process* was my favourite Nell album. Songs such as *오후와의 대화*, *안녕히 계세요*, *Movie*, and *51분 전* expressed a sceptical attitude toward the world, sometimes approaching despair.
+For a long time, *Healing Process* was my favourite Nell album. Songs such as *오후와의 대화*, *안녕히 계세요*, *Movie*, and *51분 전* expressed a skeptical attitude toward the world, sometimes approaching despair.
 
 What I liked was that the songs did not seem particularly interested in resolving those feelings into something positive. The doubt remained doubt. Despair was not necessarily followed by reassurance. There was no obligation to conclude that everything would eventually be all right.
 
