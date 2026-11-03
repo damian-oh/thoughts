@@ -14,7 +14,7 @@ He leads an amazing band, and I have always thought highly of his mixing. Of all
 
 There were a few things I did not expect.
 
-In one song, he had used a pitch shifter to change the key of a recorded vocal. In another, he had used MP3 files as samples. To reduce the sound of breathing in a vocal track, he had applied compression, a technique normally used to control dynamic range, to the sections containing the breaths.
+In one song, he had used a pitch shifter to change the key of a recorded vocal. In another, he had used MP3 files as samples. He liked to compress his vocals heavily, which made the breaths more prominent. To control them, he automated the level of the signal going into the compressor, reducing the breaths while keeping the heavy compression on the vocal.
 
 He also told me that he did not own Melodyne, widely used software for editing vocal pitch and timing.
 
