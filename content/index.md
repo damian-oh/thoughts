@@ -18,4 +18,6 @@ Everything here is just data collected along the way, to be looked at or perhaps
 
 [[programming/index|Programming]]
 
+[[sports/index|Sports]]
+
 [[uncertainty-and-participation/index|Uncertainty and Participation]]
