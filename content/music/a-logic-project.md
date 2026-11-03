@@ -32,7 +32,7 @@ I spent a considerable amount of time around people who were studying music form
 
 Certain equipment seemed almost standard. Focal monitors and Apollo Twin interfaces were common enough that they did not seem remarkable. There was also a tendency, at least among the people whose work I saw, to follow established production practices quite closely.
 
-These practices existed for good reasons. Reliable monitoring, recording technique and an understanding of signal processing matter. I learned a great deal from studying them, and I still find that knowledge valuable.
+These practices existed for good reasons. Reliable monitoring, recording technique, and an understanding of signal processing matter. I learned a great deal from studying them, and I still find that knowledge valuable.
 
 But looking through my friend's projects reminded me how easily a familiar method can come to seem like the method one is supposed to use.
 
