@@ -16,4 +16,6 @@ Everything here is just data collected along the way, to be looked at or perhaps
 
 [[music/index|Music]]
 
+[[programming/index|Programming]]
+
 [[uncertainty-and-participation/index|Uncertainty and Participation]]
