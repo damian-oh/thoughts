@@ -61,5 +61,3 @@ I would go forward for the header.
 He would stay behind.
 
 I have not spoken to him since we left school. I do not quite know why. As far as I know, he has since become a firefighter.
-
-I still think he was the best defensive partner I ever had.

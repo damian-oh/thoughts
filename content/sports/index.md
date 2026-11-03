@@ -1,7 +1,7 @@
 ---
 title: Sports
 aliases:
-  - /sport
+  - /sports
 ---
 
 A sequence of notes on sports.
