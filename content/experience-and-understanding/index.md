@@ -4,7 +4,7 @@ aliases:
   - /experience-and-understanding
 ---
 
-A sequence of notes on experience and understanding.
+These notes concern experiences I have had trouble describing or understanding.
 
 1. [[What Is Not Made Explicit]]: A personal account of remembering and understanding through explicit information.
 2. [[The Possibility That I Am Wrong]]: A reflection on belief, uncertainty, and revising one's position.

@@ -4,7 +4,7 @@ aliases:
   - /music
 ---
 
-A sequence of notes on music.
+I studied music, wanted to leave it, and eventually started playing again. These notes concern listening, making music, and the distance between understanding how something works and knowing what to do.
 
 1. [[Keeping It Human]]: An examination of AI, provenance, and what makes music worth listening to.
 2. [[I Thought I Was Done With Music]]: A reflection on leaving music and returning to it.
