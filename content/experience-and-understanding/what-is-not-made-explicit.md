@@ -292,9 +292,3 @@ if ambiguity is therefore experienced not merely as vagueness but as an absence 
 and if counterexamples are one of my most reliable tools for finding the boundaries of a claim,
 
 then perhaps some of the recurring concerns in these notes become easier to place.
-
-Not explained.
-
-Placed.
-
-For now, this is simply another description to keep alongside the others.
