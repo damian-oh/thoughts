@@ -22,7 +22,7 @@ At one point, he showed me a vocal track that he had processed with Logic's Flex
 
 The song had already been released.
 
-None of these techniques is particularly complicated, and there is nothing inherently wrong with using them. What surprised me was how different those decisions were from the production processes I had expected to find behind the music.
+None of these techniques is particularly complicated, and there is nothing inherently right or wrong with using them. What surprised me was how different those decisions were from the production processes I had expected to find behind the music.
 
 I had heard the finished songs many times. I liked the songs themselves, as well as the mixes. I knew the person responsible for them was exceptionally good at what he did. Yet I had never imagined that some of the sounds I admired had been made in these ways.
 
