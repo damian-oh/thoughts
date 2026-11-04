@@ -33,7 +33,3 @@ However, comprehension of mechanics does not guarantee a grasp of the whole. A s
 This is why I keep coming back to secondary dominants and Python lists. They are the small, deterministic grounds I can stand upon with certainty. But they are useful as something to push off from, not something to hold on to. Knowing where they end is what allows me to look beyond them.
 
 Strict mechanics and irreducible ambiguity are not mutually exclusive. The first gives me a place to start, and the second gives me a world to inhabit. The harder part is what happens where the first runs out. The four bars still have to be played one way and not another, and the rule will not decide which. I no longer wait for it to. For now, I play the passage as though the interpretation were settled, and stay ready to hear it otherwise.
-
----
-
-Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Weight and Assent]], [[What I Hope to Be Able to Say]]

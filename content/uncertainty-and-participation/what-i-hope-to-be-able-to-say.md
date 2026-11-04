@@ -86,6 +86,3 @@ I also hope that after all those revisions, all the things I could not control, 
 
 I would gladly live it again.
 
----
-
-Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Ground and Gravity]], [[Weight and Assent]]

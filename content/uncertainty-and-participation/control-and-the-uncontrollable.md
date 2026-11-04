@@ -13,7 +13,3 @@ It seems not too uncommon to divide the world into what we can control and what 
 Since life carries no universally proven purpose and ends in unavoidable death, I can find no standard against which an option could be judged valid. If there is none, inaction is not what is left over. It is one more thing no standard could reach.
 
 Some choose to move forward anyway, perhaps due to an instinct to minimize unnecessary friction and pain. As for me, I am still unsure whether this is agnosticism or paralysis.
-
----
-
-Related: [[Uncertainty and Participation]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Ground and Gravity]], [[Weight and Assent]], [[What I Hope to Be Able to Say]]

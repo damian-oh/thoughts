@@ -23,7 +23,3 @@ What I get from it is not relief from difficulty. It is assent. There is no gap 
 When the ambiguity gets too heavy, I go and pick up something heavier that is not ambiguous, and afterward the abstractions waiting on the other side feel lighter. Sometimes they seem to vanish altogether. That is the part to watch. A reset that works that well is difficult to distinguish from [[Rigour as Paralysis|a refined permission not to participate]], and the difference is not visible from the inside. The lift is honest about what it is. I am the one who has to be honest about what I am using it for.
 
 I go back under the bar anyway. Firmly, and on the understanding that the platform is somewhere I start from.
-
----
-
-Related: [[Uncertainty and Participation]], [[Control and the Uncontrollable]], [[Rigour as Paralysis]], [[Firmness Without Finality]], [[Ground and Gravity]], [[What I Hope to Be Able to Say]]
