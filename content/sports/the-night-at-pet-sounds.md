@@ -82,7 +82,7 @@ But as the case developed, I began taking it more seriously.
 
 In September 2026, an independent commission found that City had committed serious breaches of the league's financial rules over several seasons. The club appealed the decision, and the process remains ongoing.
 
-I do not want to dismiss the findings simply because I support the club
+I do not want to dismiss the findings simply because I support the club.
 
 If they are upheld, I would understand why people might regard City's achievements over the past decade as having damaged the integrity of the competition. I might agree with them.
 

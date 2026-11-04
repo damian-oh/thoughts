@@ -26,7 +26,7 @@ He suggested that the difference might point to something language cannot fully 
 
 I thought it was an interesting approach. At the same time, I was not sure whether it answered my original question.
 
-The fact that two languages allow me to express myself differently does not necessarily mean that something exists beyond the reach of language itself. It might simply mean that the languages provide different ways of expressing or organising what I think. Even if there are experiences that cannot be fully expressed in words, it does not necessarily follow that thought itself is independent of language.
+The fact that two languages allow me to express myself differently does not necessarily mean that something exists beyond the reach of language itself. It might simply mean that the languages provide different ways of expressing or organizing what I think. Even if there are experiences that cannot be fully expressed in words, it does not necessarily follow that thought itself is independent of language.
 
 There seemed to be a distinction between what we can express and what we can think, but I did not bring it up. I found the response interesting, and we eventually moved on to other things.
 

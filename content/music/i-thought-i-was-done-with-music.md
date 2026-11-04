@@ -37,7 +37,7 @@ Music was not merely something I enjoyed. It was what I was supposed to become.
 
 I do not consider myself a guitarist now, and strangely, that makes playing the guitar easier.
 
-That does not mean that all of my old habits have disappeared. I still want to play well. I still avoid improvisation, as I almost always have. I have never improvised and been satisfied with what I played.
+That does not mean that all of my old habits have disappeared. I still want to play well. I still avoid [[Wrong Notes and Backspace|improvisation]], as I almost always have. I have never improvised and been satisfied with what I played.
 
 So I do not think the difference can be reduced to something simple like, "I stopped caring about being good, and therefore music became fun again." Nor do I know whether I enjoy music now because professional pressure is gone, because I have changed as a person, because of some combination of the two, or because of something else.
 
