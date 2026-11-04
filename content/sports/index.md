@@ -4,7 +4,7 @@ aliases:
   - /sports
 ---
 
-Memories of playing sports, supporting teams, and learning StarCraft from my father. Some concern the games themselves, while others concern the people I played or watched them with.
+Memories of playing sports and supporting teams. Some concern the games themselves, while others concern the people I played or watched them with.
 
 1. [[The Other Centre-Back]]: A memory of playing centre-back with a quietly reliable partner.
 2. [[Behind the Plate]]: The responsibilities of playing catcher and a swing I could not correct.
