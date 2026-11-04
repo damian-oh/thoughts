@@ -24,7 +24,7 @@ Some time later, when I was playing football at school, my coach and teammates e
 
 Perhaps they had imagined something resembling Yaya Touré, only with much less passing ability and technique.
 
-The experiment did not last. We could not find a suitable replacement for me at centre-back, and I eventually returned to my original position. Looking back, I think that was the better decision.
+The experiment did not last. We could not find a suitable replacement for me at [[The Other Centre-Back|centre-back]], and I eventually returned to my original position. Looking back, I think that was the better decision.
 
 But I still enjoyed the idea of playing that way.
 
