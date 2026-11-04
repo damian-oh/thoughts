@@ -131,7 +131,7 @@ Looking back at some of the things I have written on this website, I noticed ano
 
 I often define things negatively.
 
-Rather than beginning with a positive definition and elaborating it, I frequently search for counterexamples. I ask where a statement stops working, what case it fails to include, what possibility would make it false, or what hidden assumption would have to be added to preserve it.
+Rather than beginning with a positive definition and elaborating it, I frequently [[Glasses on the Floor|search for counterexamples]]. I ask where a statement stops working, what case it fails to include, what possibility would make it false, or what hidden assumption would have to be added to preserve it.
 
 If a statement admits multiple interpretations, my first instinct is often not to select the most reasonable one and continue.
 

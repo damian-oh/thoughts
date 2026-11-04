@@ -78,7 +78,7 @@ In programming, I rarely begin by asking whether I understand every layer of the
 
 Perhaps there is something worth considering in that approach.
 
-When I speak with someone, I do not necessarily need to understand everything that has made them who they are. I may only need to understand enough to listen carefully and respond to what they have said.
+When I speak with someone, I do not necessarily need to understand everything that has made them who they are. I may only need to understand enough to [[A Conversation After the Show|listen carefully and respond to what they have said]].
 
 If I misunderstand them, I can ask another question. If the conversation becomes more consequential, I may need to examine my assumptions more carefully. If I discover that my understanding was inadequate, I can revise it.
 

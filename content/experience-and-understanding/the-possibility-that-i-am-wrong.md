@@ -50,7 +50,7 @@ Someone may speak with great confidence and still revise a position when a suffi
 
 The second person may be more dogmatic than the first.
 
-So strong commitment and revisability do not necessarily conflict.
+So [[Firmness Without Finality|strong commitment and revisability do not necessarily conflict]].
 
 I can say:
 
