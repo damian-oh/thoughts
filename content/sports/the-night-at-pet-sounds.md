@@ -60,7 +60,7 @@ After years of watching the team fall short in Europe, City had finally won the 
 
 Everyone at Pet Sounds congratulated us.
 
-Then the bar played *Don't Look Back in Anger* by Oasis.
+Then the bar played *Don't Look Back In Anger* by Oasis.
 
 Everyone sang along.
 
@@ -100,4 +100,4 @@ At the time, I was standing beside a friend I had known since childhood, watchin
 
 When the match ended, I cheered and laughed.
 
-When *Don't Look Back in Anger* came on, I sang.
+When *Don't Look Back In Anger* came on, I sang.
