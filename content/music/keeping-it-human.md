@@ -7,11 +7,15 @@ aliases:
   - /keeping-it-human
 ---
 
-Bandcamp has published a policy called "[Keeping Bandcamp Human](https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/)," and I want to argue with its title.
+Bandcamp has published a policy called "[Keeping Bandcamp Human](https://blog.bandcamp.com/2026/01/13/keeping-bandcamp-human/)." I question one specific choice: making human provenance a condition of admission.
 
-I should clarify where I stand, because I am not a neutral party. I help my fellow musicians record and arrange, and some of those songs get released. I have a stake in what platforms do with the music I touch. What I believe about that music is precisely what this policy cannot accommodate: a song, once made, can be worth as much as its creator, sometimes more. That is why the work matters.
+I should clarify where I stand, because I am not a neutral party. I help my fellow musicians record and arrange, and some of those songs get released. I have a stake in what platforms do with the music I touch. I also care about what happens to a song once it has been made: whether it offers something worth hearing.
 
-The policy asks me to believe something else. It asks me to sort every track into one of two categories, human-created or AI-generated, and to accept that the first is where the value is and the second is where it is not. My objection is not that Bandcamp will sort badly. It is to the sorting itself.
+Bandcamp describes its mission in terms of the connection between artists and fans, and the conditions that allow musicians to keep making music. Its policy does not have to mean that every human-made song is better than every AI-generated one. A platform can choose to support human music-making as a practice and a community, even if that means excluding work someone would enjoy hearing.
+
+That is a serious reason for the policy. Listening to music can involve following a person's work, attending their shows, and helping them make the next record. I participate in that relationship myself.
+
+I care about consent, compensation, and the conditions under which musicians work. But I am less convinced that substantial use of AI should, by itself, make a song ineligible regardless of what it offers a listener. Of course, Bandcamp is entitled to make that choice. I want to examine what the choice protects, and what it gives up.
 
 Bandcamp states:
 
@@ -27,19 +31,19 @@ Music has been inseparable from tools for a long time. They capture performances
 
 This does not mean that every use of AI is identical to every older technology. It is not. Pressing a button that produces a finished song is different from adjusting a compressor. Training a model on millions of recordings raises questions that an analog delay pedal does not. A tool can affect authorship, labour, copyright, attribution and compensation in ways another tool does not.
 
-But none of that gives us the boundary Bandcamp's policy requires.
+Those differences may justify treating them differently. They do not yet tell a musician how much generative assistance makes a finished song ineligible.
 
 "AI" names techniques, not components detectable in a song. "Substantial" names a quantity without telling us what is being measured. If a model creates a chord progression but a musician performs every instrument, is that substantial? If every note is written by hand but the singer's voice is transformed by a model, is that substantial? If a model produces twenty ideas and the musician rejects nineteen, rewrites the twentieth and records it from scratch, where is the AI in the creation?
 
-The line does not exist in the music itself. It has to be imposed, and imposition is not discovery.
+A platform can draw a boundary even when difficult cases remain. The difficulty here is that the published policy does not explain how these cases would be decided. A musician trying to work within it needs more than an assurance that the music should remain human.
 
 Bandcamp also states:
 
 > "If you encounter music or audio that appears to be made entirely or with heavy reliance on generative AI, please use our reporting tools to flag the content for review by our team. We reserve the right to remove any music on suspicion of being AI-generated."
 
-There are three different standards in those two sentences: "appears," "heavy reliance," and "suspicion." None is defined.
+The invitation to report suspected work is not itself a finding that the work violates the policy. But the stated right to remove music on suspicion leaves me wondering what evidence would be enough, and what an artist could provide in response.
 
-Bandcamp has every right to operate its platform this way. My objection is not that it lacks the authority to do so, but that the standards it has chosen cannot be precisely located in the music itself. Once removal can follow from suspicion, the practical burden shifts. A musician whose work happens to sound "AI-generated" may find that making the music is no longer enough; they may also have to establish an acceptable history of how it was made. The work is no longer judged only as a work. Its legitimacy depends on its provenance.
+A musician whose work happens to sound "AI-generated" may find that making the music is no longer enough; they may also have to establish an acceptable history of how it was made. That is a possible consequence of enforcement based on suspicion, rather than something I can establish from the policy alone. It matters because the practical question becomes how an artist demonstrates eligibility, not simply whether a listener likes the song.
 
 My difficulty with this distinction is not only theoretical.
 
@@ -53,7 +57,7 @@ They can now produce, in minutes and at negligible cost, music polished enough t
 
 This will cost musicians work. I see little reason to pretend otherwise, and even less reason to believe that musicians have the power to prevent it. Generative AI will continue to enter music whether musicians approve of it or not. Professions have disappeared before when technology made parts of their labour cheaper, faster or unnecessary, and I see no reason to assume that musicians are exempt from the same history.
 
-That inevitability is not, by itself, an argument that the change is good. Something can be unavoidable and still destroy things worth preserving. But preserving a profession cannot, by itself, be the principle by which we decide what music deserves to exist.
+That inevitability is not, by itself, an argument that the change is good. Something can be unavoidable and still destroy things worth preserving. A platform trying to support musicians may reasonably refuse that change. But I would still want to ask whether excluding a work because of its production method is the best way to protect what matters.
 
 Protecting musicians and protecting music are not identical projects. If a human musician produces indifferent work and an AI system produces something better suited to the context, what exactly are we being asked to protect?
 
@@ -61,9 +65,9 @@ I am not entitled to demand that the world preserve my role as a musician. Nor d
 
 That seems to me a more reasonable thing to protect than human provenance itself.
 
-If "keeping Bandcamp human" means protecting musicians from exploitation, taking consent and compensation seriously, and sustaining the conditions in which people can continue to make remarkable music, I have little quarrel with it.
+I have little quarrel with protecting musicians from exploitation, taking consent and compensation seriously, and sustaining the conditions in which people can continue to make remarkable music.
 
-But if it means deciding that a work deserves to remain because of what made it rather than what it became, then I am less convinced.
+Bandcamp's commitment to a human community goes further than that, and I understand why listeners might choose it for precisely that reason. I am less convinced that excluding otherwise worthwhile music is a necessary part of sustaining that community. A clearly stated restriction can be legitimate without being one I would choose.
 
 I do not know what makes music human. I am not sure anyone does. More importantly, I am no longer sure it is the right question.
 
