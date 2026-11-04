@@ -26,7 +26,7 @@ What I eventually noticed is that the two remarks do not answer the same questio
 
 They are not two points on a spectrum, then. They are two layers, and the lower one does not become the upper one by being extended.
 
-To know the chords of a song, or to know exactly which of the two reversals you have written, is to comprehend the mechanics. It is the groundwork that allows one to enter the space in the first place. Without that rigour, any claim to understanding remains lazy: a mere illusion of familiarity.
+To know the chords of a song, or to know exactly which of the two reversals you have written, is to comprehend the mechanics. It is the groundwork that allows one to enter the space in the first place. Without that rigour, any claim to understanding remains lazy: a mere illusion of familiarity. ^what-fundamentals-mean
 
 However, comprehension of mechanics does not guarantee a grasp of the whole. A song is more than its chord progression, just as an application is more than the logic inside it. The logic can be correct while the feature is wrong for the person using it, and no amount of inspection will reveal this, because the error lies outside the code. When these components meet the unpredictable nature of human experience, deterministic rules begin to bend or fray. If you insist on treating the entire world as a rigid set of instructions, you miss the music.
 

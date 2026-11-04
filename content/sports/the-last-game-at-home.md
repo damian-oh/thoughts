@@ -10,7 +10,7 @@ aliases:
 
 I began supporting the Doosan Bears, a Korean baseball team based in Seoul, when I was eight or nine.
 
-It started because of my father. He had supported the Bears since he was a child, when the KBO was first established.
+It started because of my [[What I Hope to Be Able to Say#^father|father]]. He had supported the Bears since he was a child, when the KBO was first established.
 
 I remember sitting with him in front of the television in 2015, watching the Bears win their first championship in fourteen years.
 

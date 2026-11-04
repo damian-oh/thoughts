@@ -109,7 +109,7 @@ People sometimes say:
 
 For me, that state has always felt very close to not understanding it.
 
-If I understand something, I should be able to state what I understand.
+If I understand something, I should be able to state what I understand. ^explicit-understanding
 
 If I cannot say what the thing is, what relation holds, what distinction matters, or where the boundaries of the claim are, then I have difficulty regarding myself as possessing an understanding that merely happens to resist expression.
 

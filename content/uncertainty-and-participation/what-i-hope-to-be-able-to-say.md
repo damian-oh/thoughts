@@ -66,7 +66,7 @@ I cannot say that yet.
 
 But I have noticed something that surprises me. There are already parts I would choose again.
 
-If I were born again, I would want to be my father's son.
+If I were born again, I would want to be my father's son. ^father
 
 I would want love again.
 

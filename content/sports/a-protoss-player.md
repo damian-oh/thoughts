@@ -14,7 +14,7 @@ I was visiting a friend's house when I saw his older brother playing it. I did n
 
 My father had played StarCraft quite seriously throughout the 2000s. Although he no longer played as frequently, he still returned to it occasionally.
 
-He started with the fundamentals.
+He started with the [[Ground and Gravity#^what-fundamentals-mean|fundamentals]].
 
 He explained what minerals and gas were, how supply worked, and why I should never stop producing workers in the early stages of a game. He taught me the basic build orders and unit compositions for all three races: Terran, Zerg, and Protoss.
 
@@ -100,4 +100,4 @@ StarCraft, like baseball, has always felt somewhat like that to me.
 
 I remember watching Heo Young-moo gather the last of his Protoss army and send it into what looked like a hopeless battle.
 
-I also remember sitting across from my father at a PC bang, trying to find a way to beat someone who had taught me, years earlier, why I should never stop producing workers.
+I also remember sitting across from my [[What I Hope to Be Able to Say#^father|father]] at a PC bang, trying to find a way to beat someone who had taught me, years earlier, why I should never stop producing workers.

@@ -54,7 +54,7 @@ I noticed what I was doing. My coach noticed it too.
 
 He told me that I was trying to hit the ball too far with an uppercut swing, and that I should instead bring the bat through the path of the incoming pitch.
 
-I understood what he meant. I had already noticed the problem myself. But understanding it did not seem to help very much.
+I understood what he meant. I had already noticed the problem myself. But [[What Is Not Made Explicit#^explicit-understanding|understanding it did not seem to help very much]].
 
 I tried to correct my swing. I wanted to return to the way I had been hitting before the triple, but when I stepped into the batter's box, the same tendency kept returning.
 

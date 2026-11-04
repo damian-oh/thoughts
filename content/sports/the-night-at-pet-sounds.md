@@ -38,8 +38,6 @@ Guardiola started İlkay Gündoğan as the deepest midfielder, leaving both Rodr
 
 Chelsea won 1–0.
 
-It was also one of the matches that made me pay serious attention to Thomas Tuchel, whom I came to admire.
-
 I had always considered Guardiola an extraordinary manager. Even before City won the Champions League, I thought only Alex Ferguson belonged above him. But there were moments when his decisions in important matches seemed unnecessarily complicated, and that final was the one I remembered most.
 
 Two years later, City reached the Champions League final again.
@@ -84,11 +82,11 @@ But as the case developed, I began taking it more seriously.
 
 In September 2026, an independent commission found that City had committed serious breaches of the league's financial rules over several seasons. The club appealed the decision, and the process remains ongoing.
 
-I do not want to dismiss the findings simply because I support the club.
+I do not want to dismiss the findings simply because I support the club
 
 If they are upheld, I would understand why people might regard City's achievements over the past decade as having damaged the integrity of the competition. I might agree with them.
 
-I also think I will probably continue supporting City.
+I also think I will probably [[Firmness Without Finality|continue supporting City]].
 
 I recognize that my relationship with the club is different from that of someone who grew up in Manchester, attended matches at the stadium, or supported the team through generations of family history. Mine began with a player I happened to see on television in South Korea.
 
