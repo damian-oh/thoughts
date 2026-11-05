@@ -14,7 +14,7 @@ I was visiting a friend's house when I saw his older brother playing it. I did n
 
 My father had played StarCraft quite seriously throughout the 2000s. Although he no longer played as frequently, he still returned to it occasionally.
 
-He started with the [[Ground and Gravity#^what-fundamentals-mean|fundamentals]].
+He started with the [[Ground and Gravity|fundamentals]].
 
 He explained what minerals and gas were, how supply worked, and why I should never stop producing workers in the early stages of a game. He taught me the basic build orders and unit compositions for all three races: Terran, Zerg, and Protoss.
 
