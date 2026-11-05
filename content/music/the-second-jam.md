@@ -1,9 +1,9 @@
 ---
 title: The Second Jam
 tags:
-  - music
   - improvisation
-  - experience
+  - concentration
+  - collaboration
 aliases:
   - /the-second-jam
 ---
@@ -76,7 +76,7 @@ But I remember what the instructor told me, and I remember that first snare hit.
 
 There is another part of that night that has become more important to me with time.
 
-While I was playing, I was mostly pleased that I had managed to produce some decent phrases. I was relieved that I could still play, even in the company of musicians I respected. Looking back, however, I feel more grateful for the opportunity to have played with them at all.
+While I was playing, I was mostly pleased that I had managed to produce some decent phrases. Looking back, however, I feel more grateful for the opportunity to have played with them at all.
 
 I have come to think that, for musicians, there may be no greater expression of respect than taking the music they are making together seriously. I do not know what that drummer thought of my playing. I do not know whether he remembers the jam.
 
