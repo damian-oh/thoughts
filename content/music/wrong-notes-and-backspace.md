@@ -29,7 +29,7 @@ Yet I find myself enjoying it.
 
 For a long time, I assumed that enjoying an activity required producing an acceptable outcome, and that doing so required some degree of control.
 
-Playing over a backing track alone in my room, or going through a two-chord vamp with friends, seems to work differently. I occasionally discover small, specific moments when I think, "That line was pretty decent."
+Playing over a backing track alone in my room, or going through a two-chord vamp with friends, seems to work differently. I occasionally discover small, specific moments when I think, "[[The Second Jam|That line was pretty decent]]."
 
 I do not quite know how I arrive at those lines, but every now and then, I find one.
 
