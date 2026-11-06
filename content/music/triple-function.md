@@ -36,7 +36,7 @@ I spent some time going through the material again, reconsidering concepts I had
 
 But I sometimes found the grounds for those explanations insufficient. One example was about tritone substitution.
 
-When a dominant seventh chord is replaced by another dominant seventh chord whose root note is a tritone away from the original chord, jazz harmony commonly associates the substitute with the Lydian dominant scale, also called Lydian flat seven.
+When a dominant seventh chord is replaced by another dominant seventh chord whose root note is a tritone away from the original chord, jazz harmony commonly associates the substitute with the [Lydian dominant scale](https://en.wikipedia.org/wiki/Acoustic_scale), also called Lydian flat seven.
 
 I understood the construction of the scale. I understood its relationship to the chord and the voice-leading possibilities it offered. What I wanted to know was why that particular choice had become so common.
 
