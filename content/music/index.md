@@ -13,3 +13,4 @@ I studied music, wanted to leave it, and eventually started playing again. These
 5. [[Not Yet]]: A new sense of possibility in NELL's music after years of listening.
 6. [[A Logic Project]]: An account of discovering unexpected production methods behind music I had already admired.
 7. [[The Second Jam]]: A late-night jam in Hongdae and what happened when I back inside.
+8. [[Triple Function]]: Exploring harmonic analysis and asking what could justify it.
