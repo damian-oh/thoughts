@@ -62,7 +62,7 @@ Value       Bit Pattern (4-bit)
 +1          0001
 ```
 
-The extra representation of zero reveals something important about ones' complement. Its arithmetic effectively wraps around modulo $2^n - 1$ rather than modulo $2^n$. When an addition produces a carry beyond the fixed bit width, simply discarding it would mean dropping $2^n$, which is equivalent to $+1$ in modulo $2^n - 1$.
+The extra representation of zero reveals something important about ones' complement. Its arithmetic effectively wraps around modulo $2^n - 1$ rather than modulo $2^n$. When an addition produces a carry beyond the fixed bit width, simply discarding it would mean dropping $2^n$, which is equivalent to $+1$ modulo $2^n - 1$.
 
 In other words, when subtracting a smaller positive integer from a larger one using ones' complement, discarding the carry-out leaves a result that is one too small. The end-around carry corrects this by adding the discarded bit back to the least significant bit.
 
@@ -115,3 +115,9 @@ Because the register only holds four bits, the leading $1$ overflows the four-bi
 What remains in the register is $0010$, which is $2$.
 
 The adder did not need to know that it was subtracting. It did not need to compare the magnitudes or treat negative operands differently. It simply performed the same binary addition, discarded the carry beyond the fixed bit width, and produced the correct result.
+
+What I found compelling was the practicality of that decision.
+
+The system was designed by humans, but its internal representation did not need to follow human intuition. Sign-and-magnitude would have made negative numbers easier to read, but that was not what the hardware needed. Two's complement gave up that human-friendly representation in exchange for simpler arithmetic.
+
+After all, I do not need a computer to represent negative numbers in a way that makes immediate sense to me. I need the result to be correct.
