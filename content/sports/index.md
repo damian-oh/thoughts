@@ -11,3 +11,4 @@ Memories of playing sports and supporting teams. Some concern the games themselv
 3. [[The Last Game at Home]]: Generations of the Doosan Bears and saying goodbye to Jamsil Baseball Stadium.
 4. [[The Night at Pet Sounds]]: Supporting Manchester City across a decade of dominance, overthinking, and controversy.
 5. [[A Protoss Player]]: Learning StarCraft from my father and growing up as a Protoss player.
+6. [[Under the Bar]]: The concentration and satisfaction I found in lifting heavy weights.

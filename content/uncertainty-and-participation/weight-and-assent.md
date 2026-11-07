@@ -14,7 +14,7 @@ I was a defender who relied on overwhelming speed and physical dominance, with a
 
 There was a distinct satisfaction in facing an attack directly, shutting it down entirely, and moving into the next play as if nothing had occurred. On the last line the game was not an open-ended debate. You stopped the ball or you did not. The outcome was immediate and verifiable, and it belonged to me.
 
-I find the same thing now in powerlifting. I unrack 530 lb (240 kg), brace, and take the first inch of the descent. My attention narrows to one fact: if I lose focus here, I get hurt.
+I find the same thing now in [[Under the Bar|powerlifting]]. I unrack 530 lb (240 kg), brace, and take the first inch of the descent. My attention narrows to one fact: if I lose focus here, I get hurt.
 
 There is no room for contemplation under that. The questions that usually run underneath everything do not get answered: Do I actually want this, or do I only think I do? Is this decision justified, or merely arbitrary? Am I meaning this, or projecting meaning onto it? They stop being asked. The barbell does not care about nuance, provisionality, or interpretation. It is a physical fact, and it demands execution.
 
