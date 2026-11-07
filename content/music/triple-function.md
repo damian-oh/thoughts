@@ -16,7 +16,7 @@ Consider the following progression in C major:
 
 `Em7 - A7 - Dm7 - G7`
 
-In conventional jazz harmony, this can be analysed as `IIIm7 - V7/II - IIm7 - V7`. The `Em7` can function as the diatonic `IIIm7` chord while also serving as the related `IIm7` of the following `A7`. This is described as a dual function.
+In conventional jazz harmony, this can be analyzed as `IIIm7 - V7/II - IIm7 - V7`. The `Em7` can function as the diatonic `IIIm7` chord while also serving as the related `IIm7` of the following `A7`. This is described as a dual function.
 
 My professor raised a question.
 
