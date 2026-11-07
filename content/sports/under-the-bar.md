@@ -26,9 +26,9 @@ What I enjoyed most was not the relief of having finished. It was the satisfacti
 
 I liked deadlifting too.
 
-In fact, there was something about preparing for a heavy deadlift that I enjoyed even more than preparing for a squat. I use long, straight lifting straps. They take more effort to wrap around the bar than some other designs, but that is why I prefer them.
+In fact, there was something about preparing for a heavy deadlift that I enjoyed even more than preparing for a squat.
 
-I like the feeling of wrapping the straps around the barbell, tightening them, and feeling my hands become firmly connected to it.
+I use long, straight lifting straps. They take more effort to wrap around the bar than some other designs, but that is why I prefer them. I like the feeling of wrapping the straps around the barbell, tightening them, and feeling my hands become firmly connected to it.
 
 It makes the task ahead feel more immediate. I am going to lift that barbell.
 
