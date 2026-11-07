@@ -44,7 +44,7 @@ I remembered that afternoon while wandering outside Strange Fruit. I had come al
 
 If I was going to play, I wanted to do it properly. So I went back inside and picked up the guitar again.
 
-This time, the drummer and bassist were members of [The Solutions](https://en.wikipedia.org/wiki/The_Solutions), a Korean rock band. We began a one-chord jam in D minor.
+This time, the drummer and bassist were members of [THE SOLUTIONS](https://en.wikipedia.org/wiki/The_Solutions), a Korean rock band. We began a one-chord jam in D minor.
 
 The drummer played his first snare hit on beat two.
 
