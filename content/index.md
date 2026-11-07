@@ -4,15 +4,13 @@ title: Home
 
 I studied music in South Korea and programming in Canada.
 
-I am trying to log what happens: playing music, building things, conversations, and things I find difficult to understand. Many of these notes return to the question of how to participate in something without understanding it completely.
+I am trying to log what happens: playing music, building software, people I remember, and things I find difficult to understand. Many of these notes concern what happens when that understanding is incomplete and I have to decide what to do anyway.
 
 ## A Few Places to Begin
 
-- [[Ground and Gravity]]: A good introduction to the questions behind this website. On musical knowledge, Python lists, and where precise understanding reaches its limits.
-- [[I Thought I Was Done With Music]]: A good place to start with my writing about music. On leaving it, returning, and enjoying something I once wanted nothing to do with.
-- [[What Is Not Made Explicit]]: Some context for the rest of this website. On remembering and thinking without mental imagery, and my reliance on explicit information.
-
----
+- [[The Second Jam]]: After a disappointing performance at a jam, I went outside. Then I went back in.
+- [[What Is Not Made Explicit]]: How I remember and think without being able to reproduce images or sounds in my mind.
+- [[The Other Centre-Back]]: I was a centre-back in school. I enjoyed pushing forward and challenging attackers. My teammate gave me the confidence to do so. Years later, I remember what his reliability made possible.
 
 ## Collections
 
