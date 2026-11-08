@@ -28,15 +28,15 @@ I liked deadlifting too.
 
 In fact, there was something about preparing for a heavy deadlift that I enjoyed even more than preparing for a squat.
 
-I use long, straight lifting straps. They take more effort to wrap around the bar than some other designs, but that is why I prefer them. I like the feeling of wrapping the straps around the barbell, tightening them, and feeling my hands become firmly connected to it.
+I used long, straight lifting straps. They took more effort to wrap around the bar than some other designs, but that was why I preferred them. I liked the feeling of wrapping the straps around the barbell, tightening them, and feeling my hands become firmly connected to it.
 
-It makes the task ahead feel more immediate. I am going to lift that barbell.
+It made the task ahead feel more immediate. *I am going to lift that barbell.*
 
-The process of securing my grip seems to increase my concentration. By the time I am ready to pull, I have already spent some time preparing myself for that particular weight.
+The process of securing my grip seemed to increase my concentration. By the time I was ready to pull, I had already spent some time preparing myself for that particular weight.
 
-Bench pressing is another matter.
+Bench pressing was another matter.
 
-I have always been weak at it. Even when I could squat 530 lb, my best bench press was only 225 lb (102 kg). I did not enjoy it as much as squatting or deadlifting.
+I was always relatively weak at it. Even when I could squat 530 lb, my best bench press was only 225 lb (102 kg). I did not enjoy it as much as squatting or deadlifting.
 
 There was no particular principle behind that preference. I simply liked some lifts more than others.
 
@@ -56,7 +56,7 @@ The numbers mattered to me. I cannot pretend that successfully lifting a weight 
 
 But the numbers were not the reason I began. I liked squatting before I had any impressive numbers to associate with it. As the weights increased, the thing I liked about it remained much the same.
 
-The feeling of taking the barbell out of the rack. The weight settling on my shoulders. The effort of lowering myself and standing up again. After a successful lift, the moment when I realized how completely I had given my attention to that single task.
+The feeling of taking the barbell out of the rack. The weight settling on my shoulders. The effort of lowering myself and standing up again. After a successful lift, the realization of how completely I had given my attention to that single task.
 
 I would look at the weight I had just lifted.
 
