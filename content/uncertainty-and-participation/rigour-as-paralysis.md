@@ -25,9 +25,13 @@ Yet a habit that begins as a safeguard can gradually become a default relation t
 At that point, the question "could this be wrong?" no longer applies only to statements about the world. It begins to attach itself to nearly everything.
 
 Do I really want this, or do I merely think I want it?
+
 Is this feeling genuine, or is it contaminated by some hidden force?
+
 Is this decision justified, or only arbitrary?
+
 Is this relationship meaningful, or am I projecting meaning onto it?
+
 Is this action necessary, or merely another movement within an unjustified sequence?
 
 The result is not always visible as inaction. Paralysis is not necessarily the same as stillness. Sometimes the body continues to move. One works, speaks, writes, replies, chooses, and appears to function. But underneath those actions, assent can be withheld. One acts, but does not quite inhabit the action. One chooses, but does not fully consent to having chosen.
@@ -40,7 +44,7 @@ This is not simply overthinking, though it may appear that way from the outside.
 
 A distinction between closed and open systems may be useful here, though only provisionally.
 
-In a relatively closed system, such as a piece of software, rigour has a clear and often constructive role. Inputs, outputs, states, dependencies, and constraints can be defined with some precision. Errors can be reproduced, isolated, and corrected. Ambiguities can often be reduced by improving the model or inspecting the implementation. In such a context, the demand for consistency is not only reasonable; it is productive.
+In a relatively closed system, such as a piece of software, rigour has a clear and often constructive role. Inputs, outputs, states, dependencies, and constraints can be defined with some precision. Errors can be reproduced, isolated, and corrected. Ambiguities can often be reduced by improving the model or inspecting the implementation. In such a context, the demand for consistency is not only reasonable. It is also productive.
 
 But life is not such a system. A relationship, a desire, a moral hesitation, a grief, or a future plan does not present itself with fixed boundaries and reproducible states. It belongs to an open system: one made of changing contexts, incomplete information, other minds, unstable emotions, and consequences that cannot be fully enumerated in advance.
 

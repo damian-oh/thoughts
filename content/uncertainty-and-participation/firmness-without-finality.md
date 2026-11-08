@@ -20,6 +20,6 @@ A service that never leaves a local machine cannot encounter the real-world fric
 
 A structure held at a distance may never really fail, since it was never tested.
 
-I do not know if this resolves anything. Firmness may forget its own provisionality; a structure defended long enough can start to feel settled simply for being useful. Perhaps the only honest attitude is full engagement alongside continuous readiness to abandon the structure.
+I do not know if this resolves anything. Firmness may forget its own provisionality. A structure defended long enough can start to feel settled simply for being useful. Perhaps the only honest attitude is full engagement alongside continuous readiness to abandon the structure.
 
-For now, I will inhabit a provisional structure firmly.
+I will inhabit a provisional structure firmly.
