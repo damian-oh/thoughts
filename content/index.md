@@ -10,7 +10,7 @@ I am trying to log what happens: playing music, building software, people I reme
 
 - [[The Second Jam]]: After a disappointing performance at a jam, I went outside. Then I went back in.
 - [[What Is Not Made Explicit]]: How I remember and think without being able to reproduce images or sounds in my mind.
-- [[The Other Centre-Back]]: I was a centre-back in school. I enjoyed pushing forward and challenging attackers. My teammate gave me the confidence to do so. Years later, I remember what his reliability made possible.
+- [[The Other Centre-Back]]: I loved pushing forward as a centre-back. Years later, I remember the teammate who made that possible.
 
 ## Collections
 
