@@ -81,7 +81,7 @@ Perhaps he knew that *Live Forever* should not become a song about why life is w
 
 I am guessing, of course.
 
-That is part of the difficulty. If I ask what Noel Gallagher knew, I immediately want to [[What Is Not Made Explicit#^explicit-understanding|translate whatever answer I give into propositions]]. I want something that can be stated, checked and transferred.
+That is part of the difficulty. If I ask what Noel Gallagher knew, I immediately want to [[What Is Not Made Explicit|translate whatever answer I give into propositions]]. I want something that can be stated, checked and transferred.
 
 Know this progression.
 
