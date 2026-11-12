@@ -25,7 +25,7 @@ The contrast becomes more interesting when placed beside Gallagher's own childho
 
 There is an easy story that could be constructed from this. One person suffered and wrote despair. Another suffered and chose affirmation. Therefore one attitude toward suffering was somehow superior to the other. I do not think that conclusion follows.
 
-I know very little about what either person actually experienced, and suffering does not impose a particular artistic obligation on the person who experiences it. Nor does Gallagher's childhood make *Live Forever* a better song. A song does not become more valuable because the person who wrote it earned the right biography beforehand.
+I know very little about what either person actually experienced, and suffering does not impose an artistic obligation on the person who experiences it. Nor does Gallagher's childhood make *Live Forever* a better song. A song does not become more valuable because the person who wrote it earned the right biography beforehand.
 
 What interests me is narrower.
 

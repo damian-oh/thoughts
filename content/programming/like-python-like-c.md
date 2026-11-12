@@ -38,7 +38,7 @@ The project continued, and we eventually completed it without any major conflict
 
 Between the two of us, we had written most of the code. I also handled the presentation and documentation.
 
-Looking back, I do not think our different approaches were necessarily incompatible. We were working towards the same goal, but we seemed to have different ideas about when a particular piece of work was finished.
+Looking back, I do not think our different approaches were necessarily incompatible. We were working towards the same goal, but we seemed to have different ideas about when a piece of work was finished.
 
 For me, meeting the requirements was usually a good reason to move on, provided I had no specific reason to believe something was wrong.
 
@@ -60,7 +60,7 @@ During the same conversation, he also said, "You are better than me."
 
 I do not know exactly what he meant.
 
-Perhaps he thought I was a better programmer. Perhaps he valued some aspect of my approach that I had not considered particularly remarkable. Perhaps he was simply being generous.
+Perhaps he thought I was a better programmer. Perhaps he valued some aspect of my approach that I had not considered remarkable. Perhaps he was simply being generous.
 
 Whatever he meant, I knew that I admired him.
 

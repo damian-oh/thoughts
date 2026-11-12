@@ -36,10 +36,10 @@ I do not think that made the conversation any less worthwhile.
 
 What interested me most was that he had approached the question from a direction I had not considered. He had used something directly relevant to my own experience to raise a possibility that had not occurred to me, even though I had thought about the relationship between language and thought before.
 
-I still do not know whether his reasoning holds up. My position on the original question has not particularly changed. But there is now another possibility I can examine, another distinction I might want to think about.
+I still do not know whether his reasoning holds up. My position on the original question has not changed. But there is now another possibility I can examine, another distinction I might want to think about.
 
 I suppose I could have pursued the argument further that night. Perhaps he would have had an answer to my objections, or raised another intriguing question I had not thought of. We might have discovered where we disagreed, or whether we were even discussing the same question.
 
-But I do not particularly regret that we did not. We had a conversation. Someone offered a perspective I had not considered. I found it interesting.
+But I do not regret that we did not. We had a conversation. Someone offered a perspective I had not considered. I found it interesting.
 
 I am glad we talked.

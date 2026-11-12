@@ -14,7 +14,7 @@ There was something enjoyable about putting a heavy barbell on my back, lowering
 
 I remember the feeling of unracking a heavy barbell. The moment I stepped away from the rack, I could feel how much weight I had placed on my shoulders. Sometimes, the sensation was almost frightening. It felt as though a mistake could have fatal consequences.
 
-I knew there were safety bars to catch the weight if I failed. I was not particularly interested in putting myself in actual danger.
+I knew there were safety bars to catch the weight if I failed. I was not interested in putting myself in actual danger.
 
 What I liked was the concentration. There was a heavy barbell on my back, and I had to stand up with it. The weight demanded my attention in a way that very few other things did.
 
@@ -32,7 +32,7 @@ I used long, straight lifting straps. They took more effort to wrap around the b
 
 It made the task ahead feel more immediate. *I am going to lift that barbell.*
 
-The process of securing my grip seemed to increase my concentration. By the time I was ready to pull, I had already spent some time preparing myself for that particular weight.
+The process of securing my grip seemed to increase my concentration. By the time I was ready to pull, I had already spent some time preparing myself for that weight.
 
 Bench pressing was another matter.
 

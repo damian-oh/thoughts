@@ -36,7 +36,7 @@ These practices existed for good reasons. Reliable monitoring, recording techniq
 
 But looking through my friend's projects reminded me how easily a familiar method can come to seem like the method one is supposed to use.
 
-He did not seem particularly concerned with whether a solution was conventional. If he wanted a vocal without vibrato, he removed the vibrato. If a sample worked in the song, he used it.
+He did not seem concerned with whether a solution was conventional. If he wanted a vocal without vibrato, he removed the vibrato. If a sample worked in the song, he used it.
 
 What impressed me was his ability to make a decision, carry it through, and arrive at a result that worked very well. I would not have found the evening nearly as interesting if the projects had simply contained a collection of unusual techniques. There is nothing especially admirable about doing something differently for its own sake.
 

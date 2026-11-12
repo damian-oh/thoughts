@@ -38,7 +38,7 @@ But I sometimes found the grounds for those explanations insufficient. One examp
 
 When a dominant seventh chord is replaced by another dominant seventh chord whose root note is a tritone away from the original chord, jazz harmony commonly associates the substitute with the [Lydian dominant scale](https://en.wikipedia.org/wiki/Acoustic_scale), also called Lydian flat seven.
 
-I understood the construction of the scale. I understood its relationship to the chord and the voice-leading possibilities it offered. What I wanted to know was why that particular choice had become so common.
+I understood the construction of the scale. I understood its relationship to the chord and the voice-leading possibilities it offered. What I wanted to know was why that specific choice had become so common.
 
 In one harmony book, I encountered an explanation that, as I remember it, described the phenomenon like this: musicians seem to have found that choice more natural over a long period of time. I found that answer interesting, but not entirely satisfying.
 
@@ -60,7 +60,7 @@ Some classmates had been discussing how to analyze a particular piece when their
 
 I agreed. I do not mean that every harmonic analysis is equally convincing.
 
-Given a particular progression, I may find one interpretation much more persuasive than another. It may explain the voice leading, the tonal centre, and the relationships between chords in ways that another interpretation does not. I make those judgments myself.
+Given a progression, I may find one interpretation much more persuasive than another. It may explain the voice leading, the tonal centre, and the relationships between chords in ways that another interpretation does not. I make those judgments myself.
 
 But finding one analysis more convincing does not necessarily establish that another must be wrong.
 

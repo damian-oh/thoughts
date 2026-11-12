@@ -16,7 +16,7 @@ I found the conversation interesting.
 
 Most of what I know about Musk comes from what I have seen or read in the media. I do not think I know enough to make a well-founded judgment about him and his engineering abilities.
 
-But I was not particularly concerned with deciding whether he was right.
+But I was not concerned with deciding whether he was right.
 
 What stayed with me was something different. Had I not been there, at that time, in that place, I would not have heard his story.
 

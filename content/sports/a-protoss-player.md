@@ -94,7 +94,7 @@ Yet I had struggled against him in all three matchups.
 
 I no longer play StarCraft, and I do not follow professional matches either.
 
-But I still have a particular appreciation for the game. I have heard people say that [Go](https://en.wikipedia.org/wiki/Go_(game)) is difficult to learn, but that its appeal becomes much clearer once one develops a sufficient understanding of it.
+But I still have an appreciation for the game. I have heard people say that [Go](https://en.wikipedia.org/wiki/Go_(game)) is difficult to learn, but that its appeal becomes much clearer once one develops a sufficient understanding of it.
 
 StarCraft, like baseball, has always felt somewhat like that to me.
 
