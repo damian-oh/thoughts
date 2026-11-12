@@ -14,3 +14,4 @@ I studied music, wanted to leave it, and eventually started playing again. These
 6. [[A Logic Project]]: An account of discovering unexpected production methods behind music I had already admired.
 7. [[The Second Jam]]: A late-night jam in Hongdae and what happened when I went back inside.
 8. [[Triple Function]]: Exploring harmonic analysis and asking what could justify it.
+9. [[The Result I Wanted]]: A conversation about creating music, and why I care more about the result than the method.
