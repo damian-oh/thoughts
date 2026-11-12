@@ -14,7 +14,7 @@ I told him, "For me, creating something is about yielding an outcome."
 
 What I meant was that I care most about the result. If different methods can produce something I am satisfied with, I do not want to treat one as inherently more valuable than another.
 
-I wrote a song called *Everything I Know*.
+One example is a song I wrote called *Everything I Know*.
 
 When I was making it, I wanted a female vocalist. I did not know anyone around me whose voice matched what I had in mind, so I used an AI vocal. The result was what I wanted, and that was enough for me.
 
