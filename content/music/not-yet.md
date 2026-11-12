@@ -15,11 +15,11 @@ My reasons for admiring NELL are somewhat different.
 
 For a long time, *Healing Process* was my favourite NELL album. Songs such as *오후와의 대화*, *안녕히 계세요*, *Movie*, and *51분 전* expressed a skeptical attitude toward the world, sometimes approaching despair.
 
-What I liked was that the songs did not seem particularly interested in resolving those feelings into something positive. The doubt remained doubt. Despair was not necessarily followed by reassurance. There was no obligation to conclude that everything would eventually be all right.
+What I liked was that the songs did not seem interested in resolving those feelings into something positive. The doubt remained doubt. Despair was not necessarily followed by reassurance. There was no obligation to conclude that everything would eventually be all right.
 
 But I also admired how carefully that music was made.
 
-I have always considered Kim Jong-wan one of the most capable musicians in Korean popular music, particularly in his ability to combine songwriting, arrangement, and sound production. It is one thing to write lyrics that express a particular attitude toward life. It is another to give those words a musical existence that makes them compelling.
+I have always considered Kim Jong-wan one of the most capable musicians in Korean popular music, particularly in his ability to combine songwriting, arrangement, and sound production. It is one thing to write lyrics that express an attitude toward life. It is another to give those words a musical existence that makes them compelling.
 
 NELL seemed unusually good at both.
 
