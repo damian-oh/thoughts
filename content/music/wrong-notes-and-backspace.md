@@ -19,7 +19,7 @@ When I write code or draft a note for this website, time is suspended. Nobody se
 
 Even when I play guitar, I have always strongly preferred written parts and prepared arrangements. In a prepared piece, at least the decisions about what to play have already been made. My job is to execute what I have already agreed to. Improvisation demands something different. I have to make decisions in real time, without a backspace, and accept the consequences of things I did not fully intend.
 
-Interestingly, now that I am no longer trying to be a professional musician, I sometimes look for improvisation on purpose.
+Now that I am no longer trying to be a professional musician, I sometimes look for improvisation on purpose.
 
 When I am playing with bandmates, I might start a `Gm7-C7(9)` vamp on the third fret, just to see where it goes. When I practise alone, I sometimes put on a minor II-V-I swing backing track and play around with the harmonic minor scale.
 

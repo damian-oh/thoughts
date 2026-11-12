@@ -30,7 +30,7 @@ Before moving to Canada, I studied music in South Korea.
 
 I spent a considerable amount of time around people who were studying music formally. Many were involved in commercial production, and there were certain approaches to recording and mixing that I encountered repeatedly.
 
-Certain equipment seemed almost standard. Focal monitors and Apollo Twin interfaces were common enough that they did not seem remarkable. There was also a tendency, at least among the people whose work I saw, to follow established production practices quite closely.
+Certain equipment seemed almost standard. Focal monitors and Apollo Twin interfaces were common enough that they did not seem remarkable. There was also a tendency, at least among the people whose work I saw, to follow established production practices closely.
 
 These practices existed for good reasons. Reliable monitoring, recording technique, and an understanding of signal processing matter. I learned a great deal from studying them, and I still find that knowledge valuable.
 

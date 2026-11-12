@@ -41,7 +41,7 @@ $\operatorname{onesComplement}(x) = 2^n - 1 - x$
 
 Then, $y + \operatorname{onesComplement}(x) = y + (2^n - 1 - x) = 2^n + (y - x) -1$ (where $x$ and $y$ are integers and $y > x > 0$).
 
-Here, $2^n$ represents a carry-out beyond the $n$-th bit, and interestingly, discarding that $2^n$ leaves $(y - x) - 1$, which is off by exactly 1.
+Here, $2^n$ represents a carry-out beyond the $n$-th bit, and discarding that $2^n$ leaves $(y - x) - 1$, which is off by exactly 1.
 
 Adding that discarded $2^n$ carry back into the lowest position addresses the issue:
 

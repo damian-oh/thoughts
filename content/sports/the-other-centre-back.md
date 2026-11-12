@@ -26,7 +26,7 @@ That was satisfying. I liked knowing that my presence had become something they 
 
 But I did not play alone.
 
-My partner at centre-back was a very different kind of defender.
+My partner at centre-back was a different kind of defender.
 
 He had extraordinary endurance, even outperforming elite track athletes in an 800-metre race. But what made him such a good defender was not merely his physical ability.
 

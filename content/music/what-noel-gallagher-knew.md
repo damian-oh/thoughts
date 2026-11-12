@@ -113,7 +113,7 @@ If someone makes those decisions well for long enough, it becomes difficult to s
 
 This presents an uncomfortable problem for the younger version of me.
 
-I spent a great deal of time trying to understand music by making it explicit. I still think that effort was worthwhile. There are things I understand now that I simply did not understand before, and technical knowledge gave me access to them.
+I spent a great deal of time trying to understand music by making it explicit. I still think that effort was worthwhile. There are things I understand now that I did not understand before, and technical knowledge gave me access to them.
 
 But it also taught me where technical knowledge ends. When I was thirteen, Noel Gallagher made songwriting look possible because I did not yet know how much there was to know. After studying music, he made songwriting look difficult for almost the opposite reason.
 

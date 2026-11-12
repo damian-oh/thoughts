@@ -28,7 +28,7 @@ One of the reasons I have admired Russell is that he did not seem afraid of revi
 
 I do not admire him because I think he was always right. Almost the opposite. What I admire is the willingness to accept that a position may have failed, even when it was once important to him, and to continue without treating revision as humiliation.
 
-There is something particularly impressive about a person who can hold a position firmly and still abandon it when he no longer thinks it can be defended.
+There is something impressive about a person who can hold a position firmly and still abandon it when he no longer thinks it can be defended.
 
 For me, the possibility that I may be wrong can easily become a reason not to commit too strongly in the first place. If a belief may later require revision, I am tempted to weaken my attachment to it now. If a decision may turn out badly, I may hesitate to inhabit it fully. If a conclusion is provisional, I may treat provisionality as a reason not to give it much weight.
 
