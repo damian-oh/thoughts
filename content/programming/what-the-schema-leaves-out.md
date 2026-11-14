@@ -32,7 +32,7 @@ The `parent_mode` was a value I had assigned to the chord. It was not something 
 
 I could have designed a more elaborate system. I could have allowed multiple possible parent modes, introduced additional conditions, or represented uncertainty explicitly.
 
-But those choices would have required further decisions about what the program should recognize and how it should evaluate the possibilities. I was building a tool for sketching songs, not a system intended to settle disagreements in harmonic analysis. So I kept the rule simple.
+But those choices would have required further decisions about what the program should recognize and how it should evaluate the possibilities. I was building a tool for sketching songs, not a system intended to settle disagreements in harmonic analysis. So I [[Firmness Without Finality|kept the rule simple]].
 
 There was nothing unusual about that decision. Programs need defined behaviour, and databases need defined structures. I could not leave every question unresolved and still expect the program to perform the operations I wanted.
 
