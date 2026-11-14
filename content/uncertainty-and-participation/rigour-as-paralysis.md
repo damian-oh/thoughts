@@ -52,7 +52,7 @@ Still, the distinction should not be made too roughly. Closed and open systems a
 
 Closed systems often model open systems. They give provisional form to what would otherwise remain scattered. A model, a theory, an interface, a program, or even a sentence can make some portion of life more tangible. Open systems, in turn, provide closed systems with their objects, materials, exceptions, and resistances. They supply the very phenomena that closed systems attempt to approximate. The relation is not merely one of distortion, but also of construction.
 
-In this sense, rigour may have a role on both sides. Within a closed system, rigour tends toward internal coherence, consistency, and error reduction. Within an open system, however, rigour may take a different form. It cannot demand complete closure without falsifying its object. Instead, it becomes the careful awareness of approximation, context, uncertainty, and the limits of the model.
+In this sense, rigour may have a role on both sides. Within a closed system, rigour tends toward internal coherence, consistency, and error reduction. Within an open system, however, rigour may take a different form. It cannot demand complete closure without falsifying its object. Instead, it becomes the careful awareness of approximation, context, uncertainty, and [[What the Schema Leaves Out|the limits of the model]].
 
 The problem begins when these roles are confused. A model may clarify life, but it does not become life. An open system may resist closure, but that resistance does not make all judgment unjustified. Uncertainty is not always a prohibition. Sometimes it is simply the condition under which any orientation must occur.
 
