@@ -8,7 +8,9 @@ aliases:
   - /the-result-i-wanted
 ---
 
-A few days ago, after a show, I was talking with a friend who plays in another band. We began discussing AI in music. He said something about creating things. I do not remember his exact words, but he described creation as a process in which the creator becomes so deeply attached to what they are making that it becomes difficult to distinguish the work from themselves.
+A few days ago, after a show, I was talking with a friend who plays in another band.
+
+We began discussing AI in music. He said something about creating things. I do not remember his exact words, but he described creation as a process in which the creator becomes so deeply attached to what they are making that it becomes difficult to distinguish the work from themselves.
 
 I told him, "For me, creating something is about yielding an outcome."
 
