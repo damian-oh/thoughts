@@ -15,3 +15,5 @@ I studied music, wanted to leave it, and eventually started playing again. These
 7. [[The Second Jam]]: A late-night jam in Hongdae and what happened when I went back inside.
 8. [[Triple Function]]: Exploring harmonic analysis and asking what could justify it.
 9. [[The Result I Wanted]]: A conversation about creating music, and why I care more about the result than the method.
+10. [[The Sound I Had in Mind]]: Finding and recording a guitar solo without being able to hear it in my mind beforehand.
+11. [[What Came Naturally]]: Reconsidering my own judgment about musical talent.
