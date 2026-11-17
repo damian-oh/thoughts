@@ -13,3 +13,4 @@ These notes concern experiences I have had trouble describing or understanding.
 5. [[Glasses on the Floor]]: A habit of testing boundaries, revisited through a memory of a bus ride.
 6. [[The Way I Would Rather Speak]]: A growing preference for kindness over cynicism, without abandoning independent judgment.
 7. [[The Friend Who Wrote Plays]]: Working together in a school drama club and maintaining our friendship across different paths.
+8. [[Without a Single Word]]: Discovering a different way to express the same mathematical reasoning.
