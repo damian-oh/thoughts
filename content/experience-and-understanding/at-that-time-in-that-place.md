@@ -61,3 +61,9 @@ That day at the Innovation Hub, I happened to meet someone who had a story to te
 I do not know whether that conversation will mean anything more to me in the future. But I enjoyed hearing his story.
 
 Had I not been there, at that time, in that place, I would not have heard it.
+
+---
+
+I wrote a song based on the thoughts in this essay.
+
+[Somewhere Else - Watch on YouTube](https://www.youtube.com/shorts/HXNp114f2nw)
