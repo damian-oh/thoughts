@@ -15,3 +15,4 @@ These notes concern experiences I have had trouble describing or understanding.
 7. [[The Friend Who Wrote Plays]]: Working together in a school drama club and maintaining our friendship across different paths.
 8. [[Without a Single Word]]: Discovering a different way to express the same mathematical reasoning.
 9. [[The Student Who Rarely Spoke]]: Teaching guitar to a quiet student and learning that lessons can convey more than knowledge and technique.
+10. [[A Different Kind of Attention]]: Comparing how I experienced concentration while programming, squatting, and playing guitar.
