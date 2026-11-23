@@ -20,7 +20,7 @@ I called this the `ExistingState`.
 
 It was rare. At the time, I estimated that I experienced it perhaps three or four times a year. Those moments were precious to me.
 
-I described these experiences to Gemini and asked it to turn my description into a [Python program](https://github.com/damian-oh/consciousness-oscillation). I reviewed the code it produced, checked what different parts meant, and made changes where I thought they were necessary.
+I described these experiences to Gemini and asked for a [Python program](https://github.com/damian-oh/consciousness-oscillation) to capture them. I then reviewed the resulting code, checked what different parts meant, and made changes where I thought they were necessary.
 
 The program had a `Consciousness` object that moved between two states. Each state had its own behaviour.
 
