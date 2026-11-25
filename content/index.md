@@ -16,6 +16,8 @@ I am trying to log what happens: playing music, building software, people I reme
 
 [[experience-and-understanding/index|Experience and Understanding]]
 
+[[harmony-and-explanation/index|Harmony and Explanation]]
+
 [[music/index|Music]]
 
 [[programming/index|Programming]]
