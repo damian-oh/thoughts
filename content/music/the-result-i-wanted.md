@@ -2,8 +2,8 @@
 title: The Result I Wanted
 tags:
   - creation
-  - methods
-  - results
+  - method
+  - result
 aliases:
   - /the-result-i-wanted
 ---
