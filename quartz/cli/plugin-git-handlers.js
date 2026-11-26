@@ -1,3 +1,4 @@
+import { cloneWithSubdirAsync, installedSubdirRevision } from "./plugin-subdir.js"
 import fs from "fs"
 import path from "path"
 import os from "os"
@@ -25,26 +26,6 @@ import { symlinkOrCopySync } from "./helpers.js"
 const INTERNAL_EXPORTS = new Set(["manifest", "default"])
 
 const execAsync = promisify(execCb)
-
-async function cloneWithSubdirAsync({ url, ref, subdir, pluginDir }) {
-  const tmpDir = fs.mkdtempSync(path.join(os.tmpdir(), "quartz-plugin-"))
-  try {
-    if (ref) {
-      await execAsync(`git clone --depth 1 --branch ${ref} "${url}" "${tmpDir}"`)
-    } else {
-      await execAsync(`git clone --depth 1 "${url}" "${tmpDir}"`)
-    }
-    const subdirPath = path.join(tmpDir, subdir)
-    if (!fs.existsSync(subdirPath)) {
-      throw new Error(`Subdirectory "${subdir}" not found in cloned repository`)
-    }
-    fs.cpSync(subdirPath, pluginDir, { recursive: true })
-    const { stdout } = await execAsync("git rev-parse HEAD", { cwd: tmpDir })
-    return stdout.trim()
-  } finally {
-    fs.rmSync(tmpDir, { recursive: true, force: true })
-  }
-}
 
 async function buildPluginAsync(pluginDir, name) {
   if (hasPrebuiltDist(pluginDir)) {
@@ -836,6 +817,7 @@ export async function handlePluginInstallUnified({
             await cloneWithSubdirAsync({
               url: entry.resolved,
               ref: entry.ref,
+              commit: entry.commit,
               subdir: entry.subdir,
               pluginDir,
             })
@@ -886,7 +868,7 @@ export async function handlePluginInstallUnified({
     if (failed === 0) {
       console.log(styleText("green", `✓ Restored ${installed} plugin(s)`))
     } else {
-      console.log(styleText("yellow", `⚠ Restored ${installed} plugin(s), ${failed} failed`))
+      throw new Error(`Plugin installation failed: ${failed} failure(s)`)
     }
     return
   }
@@ -1054,15 +1036,15 @@ export async function handlePluginInstallUnified({
 
     if (fs.existsSync(pluginDir)) {
       if (entry.subdir) {
-        if (!needsBuild(pluginDir)) {
-          console.log(
-            styleText("gray", `  ✓ ${name}@${entry.commit.slice(0, 7)} already installed (subdir)`),
-          )
+        // An unknown revision cannot establish a mismatch with a working installation.
+        if (entry.commit !== "unknown" && installedSubdirRevision(pluginDir) !== entry.commit) {
+          gitEntries.push({ name, entry, pluginDir, action: "replace" })
+        } else if (!needsBuild(pluginDir)) {
           installed++
-          continue
+        } else {
+          pluginsToBuild.push({ name, pluginDir })
+          installed++
         }
-        pluginsToBuild.push({ name, pluginDir })
-        installed++
       } else {
         const currentCommit = getGitCommit(pluginDir)
         if (currentCommit === entry.commit && !needsBuild(pluginDir)) {
@@ -1100,12 +1082,36 @@ export async function handlePluginInstallUnified({
           if (entry.subdir) {
             console.log(styleText("cyan", `  → ${name}: cloning (subdir: ${entry.subdir})...`))
             fs.mkdirSync(path.dirname(pluginDir), { recursive: true })
-            await cloneWithSubdirAsync({
-              url: entry.resolved,
-              ref: entry.ref,
-              subdir: entry.subdir,
-              pluginDir,
-            })
+            const staging =
+              action === "replace"
+                ? fs.mkdtempSync(path.join(path.dirname(pluginDir), ".quartz-replacement-"))
+                : undefined
+            const replacementDir = staging ? path.join(staging, "replacement") : pluginDir
+            const backupDir = staging ? path.join(staging, "backup") : undefined
+            try {
+              await cloneWithSubdirAsync({
+                url: entry.resolved,
+                ref: entry.ref,
+                commit: entry.commit,
+                subdir: entry.subdir,
+                pluginDir: replacementDir,
+              })
+              if (staging) {
+                fs.renameSync(pluginDir, backupDir)
+                try {
+                  fs.renameSync(replacementDir, pluginDir)
+                } catch (error) {
+                  fs.renameSync(backupDir, pluginDir)
+                  throw error
+                }
+                fs.rmSync(backupDir, { recursive: true, force: true })
+              }
+            } finally {
+              // Retain the backup if promotion and rollback both failed.
+              if (staging && !fs.existsSync(backupDir)) {
+                fs.rmSync(staging, { recursive: true, force: true })
+              }
+            }
           } else {
             console.log(styleText("cyan", `  → ${name}: cloning...`))
             const branchArg = entry.ref ? ` --branch ${entry.ref}` : ""
@@ -1151,7 +1157,7 @@ export async function handlePluginInstallUnified({
   if (failed === 0) {
     console.log(styleText("green", `✓ Installed ${installed} plugin(s)`))
   } else {
-    console.log(styleText("yellow", `⚠ Installed ${installed} plugin(s), ${failed} failed`))
+    throw new Error(`Plugin installation failed: ${failed} failure(s)`)
   }
 }
 
