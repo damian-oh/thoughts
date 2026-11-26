@@ -195,7 +195,7 @@ My first response was roughly this:
 
 If I look at a sunset or a night sky and find it beautiful, then technically I am experiencing beauty without visual "imagination." There is visual perception, but not internally generated imagery.
 
-Similarly, when music is playing, I can experience the music. When it stops, I cannot continue hearing it in my mind.
+Similarly, when music is playing, I can experience the music. When it stops, [[The Sound I Had in Mind|I cannot continue hearing it in my mind]].
 
 But then I began wondering what exactly it means to "experience beauty."
 

@@ -68,7 +68,7 @@ My usual response to a claim is to look for where it fails.
 
 Counterexamples are useful. They expose boundaries. They prevent a convenient formulation from surviving merely because accepting it would be useful or practical. But the same habit can continue past the point where it remains useful.
 
-What begins as openness can become an inability to accept anything. Years ago, I sometimes wanted to have some kind of belief and found myself unable to do so. Every position seemed to admit another objection, another missing condition, another possibility that had not been excluded.
+What begins as openness can become [[Rigour as Paralysis|an inability to accept anything]]. Years ago, I sometimes wanted to have some kind of belief and found myself unable to do so. Every position seemed to admit another objection, another missing condition, another possibility that had not been excluded.
 
 Open-mindedness can fail too.
 

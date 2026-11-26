@@ -20,7 +20,7 @@ What I liked was the concentration. There was a heavy barbell on my back, and I 
 
 I would lower myself until my hip crease was below the top of my knees, then drive back up.
 
-At sufficiently heavy weights, the effort could feel almost unbearable. I felt like my entire body was tearing apart. There was little room for anything else. Then, sometimes, I stood up.
+At sufficiently heavy weights, the effort could feel almost unbearable. I felt like my entire body was tearing apart. There was [[Weight and Assent|little room for anything else]]. Then, sometimes, I stood up.
 
 What I enjoyed most was not the relief of having finished. It was the satisfaction of having done it, followed by the realization of how completely I had been concentrating. Often, my next thought was that I wanted to try something heavier.
 
