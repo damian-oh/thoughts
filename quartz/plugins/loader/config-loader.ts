@@ -269,6 +269,7 @@ export async function loadQuartzConfig(
           ` Failed to install plugin: ${styleText("yellow", formatSourceDisplay(entry.source))}\n` +
           `  ${err instanceof Error ? err.message : String(err)}`,
       )
+      throw err
     }
   }
 
@@ -289,6 +290,7 @@ export async function loadQuartzConfig(
           ` Failed to load manifest: ${styleText("yellow", formatSourceDisplay(entry.source))}\n` +
           `  ${err instanceof Error ? err.message : String(err)}`,
       )
+      throw err
     }
   }
 
@@ -466,6 +468,7 @@ export async function loadQuartzConfig(
           styleText("red", `✗`) +
             ` Failed to instantiate plugin "${extractPluginName(entry.source)}": ${err instanceof Error ? err.message : String(err)}`,
         )
+        throw err
       }
     }
     return instances
