@@ -8,3 +8,4 @@ An ongoing investigation into how the suitability of pitches and pitch collectio
 
 1. [[The Question Before the Scale]]: How a question about tritone substitutions led to a more fundamental investigation.
 2. [[What Does Suitable Mean?]]: Comparing C Lydian and C Locrian over `Cmaj7` and examining the idea of melodic freedom.
+3. [[Two Paths of Inquiry]]: Separating collaborative inquiry from autonomous AI investigation.
