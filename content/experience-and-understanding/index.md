@@ -17,3 +17,4 @@ These notes concern experiences I have had trouble describing or understanding.
 9. [[The Student Who Rarely Spoke]]: Teaching guitar to a quiet student and learning that lessons can convey more than knowledge and technique.
 10. [[A Different Kind of Attention]]: Comparing how I experienced concentration while programming, squatting, and playing guitar.
 11. [[Without Drawing a Line]]: Collaborating with people and AI without imposing a strict distinction between the two.
+12. [[If I Cannot Tell]]: Questioning the importance of differences that do not survive a blind test.
