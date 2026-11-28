@@ -18,3 +18,4 @@ I studied music, wanted to leave it, and eventually started playing again. These
 10. [[The Sound I Had in Mind]]: Finding and recording a guitar solo without being able to hear it in my mind beforehand.
 11. [[What Came Naturally]]: Reconsidering my own judgment about musical talent.
 12. [[Something to Build]]: Recreating an old arrangement and accepting the limitations of what I made.
+13. [[A Shorter Solo]]: On shortening guitar solos to better serve the song.
