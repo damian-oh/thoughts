@@ -9,6 +9,7 @@ I am trying to log what happens: playing music, building software, people I reme
 ## A Few Places to Begin
 
 - [[The Second Jam]]: After a disappointing performance at a jam, I went outside. Then I went back in.
+- [[The Student Who Rarely Spoke]]: I taught guitar to a quiet student. Of all the students I have taught, she is the one I remember most.
 - [[What Is Not Made Explicit]]: How I remember and think without being able to reproduce images or sounds in my mind.
 - [[The Other Centre-Back]]: I loved pushing forward as a centre-back. Years later, I remember the teammate who made that possible.
 
