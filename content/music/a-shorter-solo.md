@@ -2,7 +2,6 @@
 title: A Shorter Solo
 tags:
   - guitar
-  - music
   - arrangement
 aliases:
   - /a-shorter-solo
